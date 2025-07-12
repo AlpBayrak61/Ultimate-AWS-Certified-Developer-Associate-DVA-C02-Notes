@@ -14,7 +14,7 @@ ___
 - Users
 - Groups
   - Can only contain users, not other groups 
-  - Users can belong to multiple groups 
+  - Users can belong to multiple groups z
 ## 🟨 Policies (_Permissions_)
 A JSON document that defines what a user/group is allowed to do
 - Least privilege principle
